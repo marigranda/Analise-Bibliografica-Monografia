@@ -1,5 +1,5 @@
 # Analise-Bibliografica-Monografia
-Este repositório contém os códigos e bases de dados utilizados para a análise bibliográfica da monografia apresentada ao Instituto de Economia da UNICAMP, como parte dos requisitos para obtenção do título de Bacharel em Ciências Econômicas. A análise foca em artigos acadêmicos que tratam de adaptação climática sensível à variável gênero, com dados provenientes das bases **Web of Science (WoS)** e **Scopus**.
+Este repositório contém os códigos e bases de dados utilizados para a análise bibliográfica da monografia a ser apresentada ao Instituto de Economia da UNICAMP, como parte dos requisitos para obtenção do título de Bacharel em Ciências Econômicas. A análise foca em artigos acadêmicos que tratam de adaptação climática sensível à variável gênero, com dados provenientes das bases **Web of Science (WoS)** e **Scopus**.
 
 ---
 
