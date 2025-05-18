@@ -16,7 +16,7 @@ WOS <- read_excel("WOS.xlsx")
 SCOPUS <- read_excel("Scopus.xlsx")               
 M <- mergeDbSources(SCOPUS, WOS, remove.duplicated = T)
 P <- M[,c("AU","TI","AB","DE","ID","SO","TC","PY","LA","DT","DI")]
-write.table(P, "Merged_FinalEsse.xlsx", row.names=FALSE)
+write.table(P, "Merged_WOS_Scopus.xlsx", row.names=FALSE)
 Resultados <- biblioAnalysis(P)
 Resumo <- summary(object = Resultados, k = 10)
 biblioshiny()
