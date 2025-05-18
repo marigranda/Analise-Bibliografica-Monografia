@@ -4,24 +4,7 @@ Este repositório contém os códigos e bases de dados utilizados para a anális
 ---
 
 ## Estrutura do Repositório
-├── Python/
-│   ├── (1) CSV Python/
-│   │   ├── Merge_PyBibX.py
-│   │   ├── Scopus.bib
-│   │   └── Web of Science.bib
-│   └── (2) Grafico 3 - Base/
-│       ├── Paises_autoresVscitados.ipynb
-│       ├── Paises_autoresVScitados.xlsx
-│       ├── World Bank Classification.xlsx
-│       └── data.csv
-│
-├── R/
-│   ├── Biblioshiny_Analises.R
-│   ├── Merged_WOS_Scopus.xlsx
-│   ├── Scopus.xlsx
-│   └── WOS.xlsx
-│
-└── Análise Resultados Query - Gráficos.xlsx
+<pre><code>```text . ├── Python/ │ ├── (1) CSV Python/ │ │ ├── Merge_PyBibX.py │ │ ├── Scopus.bib │ │ └── Web of Science.bib │ └── (2) Grafico 3 - Base/ │ ├── Paises_autoresVscitados.ipynb │ ├── Paises_autoresVScitados.xlsx │ ├── World Bank Classification.xlsx │ └── data.csv │ ├── R/ │ ├── Biblioshiny_Analises.R │ ├── Merged_WOS_Scopus.xlsx │ ├── Scopus.xlsx │ └── WOS.xlsx │ └── Análise Resultados Query - Gráficos.xlsx ```</code></pre>
 
 ---
 
