@@ -25,7 +25,14 @@ Este repositório contém os códigos e bases de dados utilizados para a anális
 │
 └── Análise Resultados Query - Gráficos.xlsx
 ```
+---
 
+## Metodologia
+
+Para a análise e visualização dos dados, foram utilizadas duas abordagens complementares:
+
+- **R (Bibliometrix/Biblioshiny)**: para análises bibliométricas interativas com redes de coautoria, co-citação e outros mapeamentos científicos.
+- **Python (PyBibX)**: para manipulação e cruzamento dos dados, especialmente na análise de autores vs. foco geográfico dos estudos.
 ---
 
 ## Descrição dos Componentes
@@ -61,13 +68,4 @@ Contém os scripts e arquivos utilizados para processamento e análise via **Bib
 ### 📄 `Análise Resultados Query - Gráficos.xlsx`
 
 Arquivo com os gráficos produzidos a partir dos códigos nas pastas `Python/` e `R/`, utilizados na monografia.
-
----
-
-## Metodologia
-
-Para a análise e visualização dos dados, foram utilizadas duas abordagens complementares:
-
-- **R (Bibliometrix/Biblioshiny)**: para análises bibliométricas interativas com redes de coautoria, co-citação e outros mapeamentos científicos.
-- **Python (PyBibX)**: para manipulação e cruzamento dos dados, especialmente na análise de autores vs. foco geográfico dos estudos.
 
